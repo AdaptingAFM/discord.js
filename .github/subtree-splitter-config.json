@@ -1,0 +1,9 @@
+{
+    "subtree-splits": [
+        {
+            "name": "ui",
+            "directory": "packages/ui",
+            "target": "git@github.com:adaptingafm/ui.git"
+        }
+    ]
+}
