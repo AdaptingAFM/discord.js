@@ -1,9 +1,54 @@
 {
     "subtree-splits": [
         {
-            "name": "ui",
-            "directory": "packages/ui",
-            "target": "git@github.com:adaptingafm/ui.git"
-        }
+            "name": "discord.js",
+            "directory": "packages/discord.js",
+            "target": "git@github.com:adaptingafm/pkg-discord.js.git"
+        },
+        {
+            "name": "builders",
+            "directory": "packages/builders",
+            "target": "git@github.com:adaptingafm/pkg-builders.git"
+        },
+        {
+            "name": "collection",
+            "directory": "packages/collection",
+            "target": "git@github.com:adaptingafm/pkg-collection.git"
+        },
+        {
+            "name": "core",
+            "directory": "packages/core",
+            "target": "git@github.com:adaptingafm/pkg-core.git"
+        },
+        {
+            "name": "formatters",
+            "directory": "packages/formatters",
+            "target": "git@github.com:adaptingafm/pkg-formatters.git"
+        },
+        {
+            "name": "proxy",
+            "directory": "packages/proxy",
+            "target": "git@github.com:adaptingafm/pkg-proxy.git"
+        },
+        {
+            "name": "rest",
+            "directory": "packages/rest",
+            "target": "git@github.com:adaptingafm/pkg-rest.git"
+        },
+        {
+            "name": "voice",
+            "directory": "packages/voice",
+            "target": "git@github.com:adaptingafm/pkg-voice.git"
+        },
+        {
+            "name": "util",
+            "directory": "packages/util",
+            "target": "git@github.com:adaptingafm/pkg-util.git"
+        },
+        {
+            "name": "ws",
+            "directory": "packages/ws",
+            "target": "git@github.com:adaptingafm/pkg-ws.git"
+        },
     ]
 }
