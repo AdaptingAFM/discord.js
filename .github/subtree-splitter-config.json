@@ -49,6 +49,6 @@
             "name": "ws",
             "directory": "packages/ws",
             "target": "git@github.com:adaptingafm/pkg-ws.git"
-        },
+        }
     ]
 }
